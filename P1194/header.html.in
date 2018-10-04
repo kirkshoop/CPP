@@ -1,0 +1,26 @@
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="607">
+  <tr>
+    <td width="172" align="left" valign="top">Document number:</td>
+    <td width="450">
+      %%DOCNO%%
+    </td>
+  </tr>
+  <tr>
+    <td width="172" align="left" valign="top">Date:</td>
+    <td width="450">2018-10-08</td>
+  </tr>
+  <tr>
+    <td width="172" align="left" valign="top">Project:</td>
+    <td width="500">The Compromise Executors Proposal: A lazy simplification of P0443</td>
+  </tr>
+  <tr>
+    <td width="172" align="left" valign="top">Reply-to:</td>
+    <td width="450">
+      Lee Howes        &lt;<a href="mailto:lwh@fb.com">lwh@fb.com</a>&gt;<br/>
+      Eric Niebler     &lt;<a href="mailto:eniebler@fb.com">eniebler@fb.com</a>&gt;<br/>
+      Kirk Shoop       &lt;<a href="mailto:kirkshoop@fb.com">kirkshoop@fb.com</a>&gt;<br/>
+      Bryce Lelbach    &lt;<a href="mailto:brycelelback@gmail.com">brycelelback@gmail.com</a>&gt;<br/>
+      David S. Hollman &lt;<a href="mailto:dshollm@sandia.gov">dshollm@sandia.gov</a>&gt;</td>
+    </td>
+  </tr>
+</table>
